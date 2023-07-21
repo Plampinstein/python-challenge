@@ -66,7 +66,6 @@ print("_______________________________________________")
 print(f"Total number of votes: {total_votes}")
 for i in range(0,3):
     print(f"Candidates and individual votes: {candidates_names[i]} with {candidate_votes[candidates_names[i]]}")
-print(percentage)
 
 print(f"Winner: {winner}")
 
